@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **vipinchauhan20904@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Core java,Advanced java,Spring Boot,Mysql
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
