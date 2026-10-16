@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **vipinchauhan20904@gmail.com** For Collaboration/Project o
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,wordpress,mysql,github,vscode&theme=dark&perline=6" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,github,vscode&theme=dark&perline=6" alt="Tech Stack Icons"/>
 </div>
 
 ---
