@@ -1,63 +1,128 @@
-# 💫 Hi 👋, I'm Vipin Chauhan
-**A passionate Java developer**
+# Hi there, I'm Vipin Chauhan 👋
 
-Email Me 👉 ✉️ **vipinchauhan20904@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### 💻 Java Full Stack Developer | Software Developer | Problem Solver
 
-- 🌱 **I’m currently learning:** Core java,Advanced java,Spring Boot,Mysql
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+in+Progress;Core+Java+%7C+Advanced+Java;Spring+Boot+%7C+MySQL;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vipin.chauhan.396998) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vipin_chauhan8953) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-chauhan-203621368/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipinchauhan20904@gmail.com) 
-<!-- Snake Game Repo View -->
+<p align="center">
+  <a href="https://github.com/vipin-chauhan512">
+    <img src="https://komarev.com/ghpvc/?username=vipin-chauhan512&label=Profile%20Views&color=orange&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+---
 
-## ⚡ Tech Stack
+## 🚀 About Me
 
-<div align="center">
+- 🎓 B.Tech Computer Science Engineering graduate.
+- 💻 Aspiring **Java Full Stack Developer**.
+- 🌱 Currently learning Java, Spring Boot, REST APIs, Hibernate, and MySQL.
+- 🧠 Practicing Data Structures and Algorithms using Java.
+- 🛠️ Building projects to improve my development skills.
+- 🎯 Goal: Become a skilled software developer and contribute to real-world projects.
+- ⚡ Believe in consistency, clean code, and continuous learning.
 
-### 🌐 Frontend
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔧 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### ⚙️ Backend Development
 
-### 🗄️ Database & Tools
+![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🚀 Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,github,vscode&theme=dark&perline=6" alt="Tech Stack Icons"/>
-</div>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vipin-chauhan512&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vipin-chauhan512&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vipin-chauhan512&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vipin-chauhan512&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📌 Featured Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚆 Train Booking System
+A Java full-stack project focused on train listings, user registration, login, and booking-related functionality.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vipin-chauhan512&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+🔗 [Explore My Repositories](https://github.com/vipin-chauhan512?tab=repositories)
+
+### 🌦️ Weather Application
+A weather application project to practice frontend development and API integration.
+
+🔗 [View My GitHub Projects](https://github.com/vipin-chauhan512?tab=repositories)
+
+> Replace the repository links above with the direct links to these projects once they are available on GitHub.
 
 ---
-[![](https://komarev.com/ghpvc/?username=vipin-chauhan512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipin-chauhan512&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-chauhan512&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vipin-chauhan512&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-chauhan512&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/vipin-chauhan512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vipin-chauhan-203621368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 "Consistency is the key to mastering any skill."</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
