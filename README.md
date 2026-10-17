@@ -1,6 +1,6 @@
 # Hi there, I'm Vipin Chauhan 👋
 
-### 💻 Java Full Stack Developer | Software Developer | Problem Solver
+### 💻 Java Full Stack Developer | Software Developer 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+in+Progress;Core+Java+%7C+Advanced+Java;Spring+Boot+%7C+MySQL;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
@@ -45,9 +45,6 @@
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Advanced Java](https://img.shields.io/badge/Advanced_Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ### 🗄️ Database
 
@@ -57,9 +54,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
