@@ -92,14 +92,6 @@ A weather application project to practice frontend development and API integrati
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipin-chauhan512&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
