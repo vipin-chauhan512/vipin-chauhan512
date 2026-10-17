@@ -79,7 +79,7 @@ A Java full-stack project focused on train listings, user authentication, and tr
 
 - 💻 **Source Code:** [Explore My Repositories](https://github.com/vipin-chauhan512?tab=repositories)
 
-**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** Core java
 
 ---
 
